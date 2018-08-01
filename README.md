@@ -1,6 +1,6 @@
 ## Kommando elektronika
 
-Hey Leute,
+[20:05, 1.8.2018] Basti Ke: Hey Leute,
 Hock gerade mit Jul am Herrenwieser. Haben ne coole Idee wie wir unseren Sound besser organisieren können.
 
 Problemstellung:
@@ -14,12 +14,12 @@ Vorteile:
 - Kreativitätssteigerung, und Motivation durch Weiterentwicklung von anderen.
 - Jeder weiß von jedem Bescheid und wenn wir uns Treffen müssen wir nicht immer von 0 anfangen.
 
-Erstmal wär ne gescheite Ordnerstruktur von Vorteil, Google Drive habe wir schon. Dani & ich tauschen uns da aus.
+[20:07, 1.8.2018] Basti Ke: Erstmal wär ne gescheite Ordnerstruktur von Vorteil, Google Drive habe wir schon. Dani & ich tauschen uns da aus.
 
 ## Ordnerstruktur
-
+```
 Kommando elektronika
-│   README.md    
+│   README.md
 │
 └───Data
 |   └───Samples
@@ -41,3 +41,4 @@ Kommando elektronika
 |
 └───FinalSongs
     └───examplefile.wav
+```
