@@ -17,9 +17,9 @@ Vorteile:
 [20:07, 1.8.2018] Basti Ke: Erstmal wär ne gescheite Ordnerstruktur von Vorteil, Google Drive habe wir schon. Dani & ich tauschen uns da aus.
 
 ## Ordnerstruktur
-
+```
 Kommando elektronika
-│   README.md    
+│   README.md
 │
 └───Data
 |   └───Samples
@@ -41,5 +41,4 @@ Kommando elektronika
 |
 └───FinalSongs
     └───examplefile.wav
-# Kommando-Elektronika
-# Kommando-Elektronika
+```
